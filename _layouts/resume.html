@@ -205,6 +205,23 @@
       <!-- end Links -->
       {% endif %}
 
+      {% if site.resume_print_references %}
+      <!-- begin Print Social Links -->
+      <section class="content-section">
+
+        <header class="section-header">
+          <h2>References</h2>
+        </header>
+
+        <div class="resume-item">
+            <p>References available upon request.</p>
+        </div>
+
+      </section>
+      <!-- end Print Social Links -->
+      {% endif %}
+
+
       {% if site.resume_print_social_links %}
       <!-- begin Print Social Links -->
       <section class="content-section print-only">
@@ -222,8 +239,7 @@
       {% endif %}
 
       <footer class="page-footer">
-        <p class="footer-line">Made by <a href="http://twitter.com/jglovier">@jglovier</a>. Fork me on <a href="https://github.com/jglovier/resume-template">GitHub</a>.</p>
-        <p class="footer-line">If this is your live resume, you can modify or remove this part. ;-)</p>
+        <p class="footer-line">You made it to the bottom. Thanks for reading! :)</p>
       </footer>
 
     </div>

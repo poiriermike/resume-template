@@ -1,12 +1,39 @@
 # Skills
 # Donut design
-- skill: Donut design
-  description: Sprinkle art, icing design, eclair management, taste testing, donut/coffee pairing research
+- skill: Docker Orchestration
+  description: Familiar with both Docker Swarm and Kubernetes as Docker orchestration tools.
 
 # Craft beer brewing
-- skill: Craft beer brewing
-  description: Hops inspection, brew testing, distribution management, bottle label design, festival and event management
+- skill: Continuous Integration, Delivery and Deployment
+  description: Made extensive use of both Bamboo and Jenkins as CI/CD servers. Familiar with Spinnaker for container deployment.
 
 # Family leadership
-- skill: Family leadership
-  description: Bread winning, conflict resolution, couch inspection, TV longevity testing
+- skill: Automation, Deployment, and Infrastructure as Code
+  description: Used automation tools, specifically Ansible to deploy, and manage infrastructure.
+
+- skill: Programming Languages
+  description: |
+    <ul>
+      <li>Python</li>
+      <li>Bash</li>
+      <li>Groovy</li>
+      <li>Java</li>
+      <li>Perl</li>
+      <li>JavaScript</li>
+    </ul>
+
+- skill: Frameworks
+  description: |
+    <ul>
+      <li>Django - Python</li>
+      <li>Angular JS 1</li>
+      <li>Grails, Gradle</li>
+    </ul>
+
+- skill: Databases and Datastores
+  description: |
+    <ul>
+      <li>PostgreSQL 9.x</li>
+      <li>Oracle 12c</li>
+      <li>Redis</li>
+    </ul>
