@@ -16,7 +16,10 @@ resume_contact_email:           "poirier.mike@live.com"
 resume_contact_telephone:       "(250) 701-1443"
 resume_contact_address:         "309-1100 Union Road, Saanich BC, Canada"
 resume_header_contact_info: "309-1100 Union Road, Saanich BC, Canada | (250) 701-1443 | poirier.mike@live.com"
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but K.I.S.S.</p>"
+resume_header_intro: |
+  <p>
+  Automator and builder of scalable, fault-tolerant applications.
+  </p>
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
