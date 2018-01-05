@@ -6,7 +6,7 @@
     Worked on both an operations team as well as a future architecture team to enable Clarity LIMS to run as a scalable, SaaS application using Docker.
     <ul class="resume-item-list">
       <li>Implemented a monitoring and alerting stack using Sensu and PagerDuty for AWS servers.</li>
-      <li>Split the Clarity LIMS application into multiple, Docker containers.</li>
+      <li>Split the Clarity LIMS application into multiple Docker containers.</li>
       <li>Deployed a Jenkins CI/CD server from scratch using Docker and Gradle for builds.</li>
       <li>Created a chatbot (sudobot) to help team members manage QA servers and create Oracle schemas easily for developers.</li>
       <li>Assisted with transition from GenoLogics to Illumina after buyout.</li>
