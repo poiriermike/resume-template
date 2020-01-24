@@ -1,4 +1,17 @@
 # Jobs
+
+- company: Bambora Inc.
+  position: DevOps Engineer
+  duration: Feb, 2018 - Present
+  summary:
+    Acted as technology lead and assisted with rebuilding operations team after a mass-exodus.
+    <ul class="resume-item-list">
+      <li>Refreshed monitoring framework utilizing Zabbix and Elastalert.</li>
+      <li>Automated legacy Windows application deployments, patching, and management utilizing Ansible and Ansible Tower.</li>
+      <li>Re-architected infrastructure around a legacy banking application to ensure high-availability and fault-tolerance.</li>
+      # <li>Built a highly available Elasticsearch, Logstash, and Kibana(ELK) cluster and migrated multiple terrabytes of existing data from an existing cluster to it.</li>
+      # <li>Impletemented a container orchestration system utilizing Consul, Nomad, and Vault.</li>
+    </ul>
 - company: GenoLogics/Illumina
   position: Infrastructure Developer (DevOps)
   duration: Sept, 2015 &mdash; Dec, 2017

@@ -7,3 +7,9 @@
   duration: 2012 &mdash; Present
   # url: "#"
   description: Character sheet and inventory management system for pen-and-paper RPG groups.
+
+- project: manifest
+  role: 
+  duration: 2017 &mdash; Present
+  # url: "#"
+  description: API server to manage Ansible inventories, groups, and hosts. 
