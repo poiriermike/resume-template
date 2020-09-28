@@ -10,7 +10,7 @@
       <li>Automated legacy Windows application deployments, patching, and management utilizing Ansible and Ansible Tower.</li>
       <li>Re-architected infrastructure around a legacy banking application to ensure high-availability and fault-tolerance.</li>
       <li>Launching a datacentre within a single year timeframe using DevOps practices and tools such as infrastructure as code.</li>
-      <li>Built a highly available Elasticsearch, Logstash, and Kibana(ELK) cluster and migrated multiple terrabytes of existing data from an existing cluster to it.</li>
+      <li>Built a highly available Redis, Elasticsearch, Logstash, and Kibana(RELK) cluster to replace a single node instance of each.</li>
     </ul>
 
 - company: GenoLogics/Illumina
