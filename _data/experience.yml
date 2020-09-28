@@ -9,9 +9,8 @@
       <li>Refreshed monitoring framework utilizing Zabbix and Elastalert.</li>
       <li>Automated legacy Windows application deployments, patching, and management utilizing Ansible and Ansible Tower.</li>
       <li>Re-architected infrastructure around a legacy banking application to ensure high-availability and fault-tolerance.</li>
-      <li>Launched two datacentres within a single year timeframe using DevOps practices and tools such as infrastructure as code.</li>
-      # <li>Built a highly available Elasticsearch, Logstash, and Kibana(ELK) cluster and migrated multiple terrabytes of existing data from an existing cluster to it.</li>
-      # <li>Impletemented a container orchestration system utilizing Consul, Nomad, and Vault.</li>
+      <li>Launching a datacentre within a single year timeframe using DevOps practices and tools such as infrastructure as code.</li>
+      <li>Built a highly available Elasticsearch, Logstash, and Kibana(ELK) cluster and migrated multiple terrabytes of existing data from an existing cluster to it.</li>
     </ul>
 
 - company: GenoLogics/Illumina
