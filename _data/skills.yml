@@ -1,7 +1,7 @@
 # Skills
 # Donut design
 - skill: Docker Orchestration
-  description: Familiar with both Docker Swarm and Kubernetes as Docker orchestration tools.
+  description: Familiar with both Docker Swarm, Hashicorp Nomad, and Kubernetes as Docker orchestration tools.
 
 # Craft beer brewing
 - skill: Continuous Integration, Delivery and Deployment
@@ -9,7 +9,7 @@
 
 # Family leadership
 - skill: Automation, Deployment, and Infrastructure as Code
-  description: Used automation tools, specifically Ansible to deploy, and manage infrastructure.
+  description: Used automation tools, specifically Terraform and Ansible to deploy, and manage infrastructure.
 
 - skill: Programming Languages
   description: |
@@ -36,4 +36,5 @@
       <li>PostgreSQL 9.x</li>
       <li>Oracle 12c</li>
       <li>Redis</li>
+      <li>Elasticsearch</li>
     </ul>
