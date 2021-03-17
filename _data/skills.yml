@@ -1,15 +1,15 @@
 # Skills
 # Donut design
 - skill: Docker Orchestration
-  description: Familiar with both Docker Swarm, Hashicorp Nomad, and Kubernetes as Docker orchestration tools.
+  description: Familiar with Docker Swarm, Hashicorp Nomad, and Kubernetes as Docker orchestration tools.
 
 # Craft beer brewing
 - skill: Continuous Integration, Delivery and Deployment
-  description: Made extensive use of both Bamboo and Jenkins as CI/CD servers. Familiar with Spinnaker for container deployment.
+  description: Made extensive use of both Bamboo and Jenkins as CI/CD servers.
 
 # Family leadership
 - skill: Automation, Deployment, and Infrastructure as Code
-  description: Used automation tools, specifically Terraform and Ansible to deploy, and manage infrastructure.
+  description: Used automation tools, specifically Terraform and Ansible to deploy and manage infrastructure.
 
 - skill: Programming Languages
   description: |
@@ -18,7 +18,7 @@
       <li>Bash</li>
       <li>Groovy</li>
       <li>Java</li>
-      <li>Perl</li>
+      <li>PowerShell</li>
       <li>JavaScript</li>
     </ul>
 
@@ -34,6 +34,7 @@
   description: |
     <ul>
       <li>PostgreSQL 9.x</li>
+      <li>SQL Server</li>
       <li>Oracle 12c</li>
       <li>Redis</li>
       <li>Elasticsearch</li>
