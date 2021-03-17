@@ -1,8 +1,19 @@
 # Jobs
 
+- company: AlayaCare Inc.
+  position: Senior DevOps Analyst
+  duration: Nov, 2020 - Present
+  summary: |
+    Senior resource on an automation/developer acceleration team.
+    <ul class="resume-item-list">
+      <li>Built out tooling to create a complex, hybrid kubernetes local developer environment.</li>
+      <li>Created tooling and pipelines to enable automated user-interface testing.</li>
+      <li>Defined process and tooling standards for a newly formed team.</li>
+    </ul>
+
 - company: Bambora Inc.
   position: DevOps Engineer
-  duration: Feb, 2018 - Present
+  duration: Feb, 2018 - Nov, 2020
   summary: |
     Acted as technology lead and assisted with rebuilding operations team after a mass-exodus.
     <ul class="resume-item-list">
